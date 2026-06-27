@@ -1,26 +1,26 @@
-   header {font-family: "Arial"; color: white; background-color: black;}
+ header {font-family: "Arial"; color: white; background-color: black;}
     #sobreMim1 {color: white;background-color: #0E162C; border: 4px double goldenrod;}
     #formacao {color: white; background-color: #0E162C; border: 4px double goldenrod;}
     #portifolio {color:white; background-color:#0E162C; border: 4px double goldenrod;}
     #contato {color: white; background-color: #0E162C; border: 4px double goldenrod;}
     h1 {margin-left: 30px ;}
-    #sobreMim2 {margin-left: 400px;}
+    #sobreMim2 {margin-left: 0; text-align: center;}
     nav {display: flex; justify-content: flex-end; gap: 30px; padding: 10px 20px;}
     nav a {text-decoration: none; padding: 10px; border: 3px; color: white; background-color: #002A32;}
     nav a:hover {color: aquamarine;}
     body {font-family: Garamond; font-size: 24px;}
     p {margin-left: 30px; margin-right: 30px; max-width: 100%;}
     * {margin: 0; padding: 0;}
-    .sobre-container {display: flex; align-items: center; gap: 30px; flex-wrap: warp;}
+    .sobre-container {display: flex; align-items: center; gap: 30px; flex-wrap: wrap;}
     .sobre-container img {height: auto; width: 300px; max-width: 100%; margin-bottom: 50px; border-radius: 15px;}
-    .sobre-container2 {display: flex; align-items: center; gap: 30px; flex-wrap: warp;}
+    .sobre-container2 {display: flex; align-items: center; gap: 30px; flex-wrap: wrap;}
     .sobre-container2 img {height: auto; width: 300px; max-width: 100%; border-radius: 15px;}
-    .sobre-container3 {display: flex; align-items: center; gap: 30px; flex-wrap: warp;}
+    .sobre-container3 {display: flex; align-items: center; gap: 30px; flex-wrap: wrap;}
     .sobre-container3 img {height: auto; width: 300px; max-width: 100%; border-radius: 15px;}
-    #mensagem {width: 90%; max-width: 500%; height: 150px;}
+    #mensagem {width: 90%; max-width: 500px; height: 150px;}
     label {margin-left: 30px;}
     input {margin-left: 30px;}
     textarea {margin-left: 30px;}
-    button {width: 100px; height: 50px; color: white; background-color: #002A32; border-radius: 2px; border-color: aliceblue; margin-left: 190px;}
+    button {width: 100px; height: 50px; color: white; background-color: #002A32; border-radius: 2px; border-color: aliceblue; margin: 20px auto; display: block;}
     footer {color: white; background-color: black;}
     #rodape {margin-left: 100px;}
