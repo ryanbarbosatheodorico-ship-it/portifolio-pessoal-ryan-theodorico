@@ -8,8 +8,8 @@ header {font-family: "Arial"; color: white; background-color: black;}
     nav {display: flex; justify-content: flex-end; gap: 30px; padding: 10px 20px; flex-wrap: wrap;}
     nav a {text-decoration: none; padding: 10px; border: 3px; color: white; background-color: #002A32;}
     nav a:hover {color: aquamarine;}
-    body {font-family: Garamond; font-size: 24px;}
-    p {margin-left: 30px; margin-right: 30px; max-width: 100%;}
+    body {font-family: Garamond; font-size: 28px;}
+    p {margin-left: 30px; margin-right: 30px; max-width: 100%; margin-bottom: 20px;}
     * {margin: 0; padding: 0;}
     .sobre-container {display: flex; align-items: center; gap: 30px; flex-wrap: wrap;}
     .sobre-container img {height: auto; width: 300px; max-width: 100%; margin-bottom: 50px; border-radius: 15px;}
