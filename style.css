@@ -12,7 +12,7 @@ header {font-family: "Arial"; color: white; background-color: black;}
     p {margin-left: 30px; margin-right: 30px; max-width: 100%; margin-bottom: 20px;}
     * {margin: 0; padding: 0;}
     .sobre-container {display: flex; align-items: center; gap: 30px; flex-wrap: wrap;}
-    .sobre-container img {height: auto; width: 300px; max-width: 100%; margin-bottom: 50px; border-radius: 15px;}
+    .sobre-container img {height: auto; width: 300px; max-width: 100%; margin-bottom: 50px; border-radius: 15px; text-align: center;}
     .sobre-container2 {display: flex; align-items: center; gap: 30px; flex-wrap: wrap;}
     .sobre-container2 img {height: auto; width: 300px; max-width: 100%; border-radius: 15px;}
     .sobre-container3 {display: flex; align-items: center; gap: 30px; flex-wrap: wrap;}
