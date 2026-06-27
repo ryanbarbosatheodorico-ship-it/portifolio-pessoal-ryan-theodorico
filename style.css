@@ -1,0 +1,26 @@
+    header {font-family: "Arial"; color: white; background-color: black;}
+    #sobreMim1 {color: white;background-color: #0E162C; border: 4px double goldenrod;}
+    #formacao {color: white; background-color: #0E162C; border: 4px double goldenrod;}
+    #portifolio {color:white; background-color:#0E162C; border: 4px double goldenrod;}
+    #contato {color: white; background-color: #0E162C; border: 4px double goldenrod;}
+    h1 {margin-left: 30px ;}
+    #sobreMim2 {margin-left: 400px;}
+    nav {display: flex; justify-content: flex-end; gap: 30px; padding: 10px 20px;}
+    nav a {text-decoration: none; padding: 10px; border: 3px; color: white; background-color: #002A32;}
+    nav a:hover {color: aquamarine;}
+    body {font-family: Garamond; font-size: 24px;}
+    p {margin-left: 30px; margin-right: 30px; max-width: 550px;}
+    * {margin: 0; padding: 0;}
+    .sobre-container {display: flex; align-items: center; gap: 100px;}
+    .sobre-container img {height: auto; width: 300px; margin-bottom: 50px; border-radius: 15px;}
+    .sobre-container2 {display: flex; align-items: center; gap: 100px;}
+    .sobre-container2 img {height: auto; width: 300px; border-radius: 15px;}
+    .sobre-container3 {display: flex; align-items: center; gap: 100px;}
+    .sobre-container3 img {height: auto; width: 300px; border-radius: 15px;}
+    #mensagem {width: 500px; height: 150px;}
+    label {margin-left: 30px;}
+    input {margin-left: 30px;}
+    textarea {margin-left: 30px;}
+    button {width: 100px; height: 50px; color: white; background-color: #002A32; border-radius: 2px; border-color: aliceblue; margin-left: 190px;}
+    footer {color: white; background-color: black;}
+    #rodape {margin-left: 100px;}
